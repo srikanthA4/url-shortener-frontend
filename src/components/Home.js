@@ -14,9 +14,7 @@ const Home = () => {
         <div className="p-5 col">
           <div className="lead display-1">Welcome To UrlShortsApp</div>
         </div>
-        <div className="p-5 display-6 text-danger col">
-          <p>Here you can create shortUrl for a LongUrl</p>
-        </div>
+        
       </div>
       <div className="container-fluid bg-dark p-5">
         <div className="container p-5 d-flex justify-content-center align-items-center">
